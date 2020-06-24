@@ -9,7 +9,7 @@ status: published
 
 The visual design of our garden is modelled on “Islamic” ones. They come in many forms, one of which is the layout of four garden beds divided by two intersecting rivers. Garden of Blues is without a linear perspective, a mimicry of Mughal paintings. Islamic gardens of course also existed in, Europe perhaps most famously in Alhambra. 
 
-![miniature][https://www.davidmus.dk/en/collections/islamic/materials/miniatures/art/46-1980]
+![miniature](http://www.electrummagazine.com/wp-content/uploads/2011/07/Isfahan_Garden_carpet.jpg "Isfahan chahar-bagh “Paradise Garden” carpet,  17th c.")
 
 Given that Malaysia is often left out of the “traditional” Islamic (and Arab) world and that Honduras hosts a large community of Palestinians, we thought it’d be interesting to think about these two geographies through the genre of Islamic garden miniatures.
 
