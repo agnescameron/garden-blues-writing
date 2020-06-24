@@ -1,4 +1,4 @@
-2020-06-23-theory-note.markdown
+
 ---
 layout: post
 title:  "a selfaware note on theory"
