@@ -1,4 +1,3 @@
-
 ---
 layout: post
 title:  "a selfaware note on theory"

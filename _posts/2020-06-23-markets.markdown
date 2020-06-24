@@ -4,7 +4,7 @@ title:  "massachusetts markets"
 date:   2020-06-23 11:24:44 -0400
 categories: jekyll update
 status: published
-
+---
 *Garden of Blues* sources its produce from Cambridge/Somerville MA. 
 
 Here’s a mini-ethnography of the supermarkets we frequent, mostly in the form of questions. 
