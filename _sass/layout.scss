@@ -5,6 +5,10 @@ body {
 	padding: none;
 }
 
+ul {
+  list-style-type: none;
+}
+
 .nav > span {
 	margin-right: 30px;
 }
@@ -106,8 +110,8 @@ section {
 p,
 ol,
 ul {
-    font-size: 1.4rem;
-    line-height: 2rem; 
+    font-size: 1rem;
+    line-height: 1.2rem; 
 }
 
 p {
