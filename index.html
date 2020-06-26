@@ -10,7 +10,7 @@ layout: main
 		{% if post.status == 'published' %}
 			<li>
 				<i>{{ post.date | date: "%m/%Y" }}  <a href="{{ post.url }}">{{ post.title }}</a><br></i>
-				{{ post.description }}<br><br>
+				{{ post.content }}frogs<br><br>
 			</li>
 		{% endif %}
 	{% endfor %}
