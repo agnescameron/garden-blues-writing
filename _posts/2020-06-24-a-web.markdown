@@ -21,6 +21,6 @@ Just like the tropics is populated with wildlife, so are computers: their codes 
 
 We are cleaning up our code as we detect infestations. 
 
-![]( bug.png) 
+![]( bug.jpeg "historic bug from a computer machine" ) 
 
 On a different note: Can a cyber-tropical garden push back at the idea of “vast jungles,” endless web scrolls, “Safari” searches, and InternetExploring?

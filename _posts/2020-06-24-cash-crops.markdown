@@ -9,13 +9,11 @@ Across the tropical belt, we find cash crops (agriculture for export) such as ru
 
 Today, Malaysia and Honduras import the same vegetables as the export. Their main partners are the US and China and surrounding countries such as Thailand and Guatemala. 
 
-![]( IMG_0128.jpg)
-
 **El rambután**
 
 The name of the fruit "rambutan" stems from the Malay word for “hair” (cabello), a reference to the “hairy” shell. It originates from the lowlands of Indonesia. This fruit travelled via Arabic trade routes to East Africa during the expansion of Islam between the 10th and the 13th centuries. Much later, in the 19th century, the Dutch brought the rambutan from the Dutch East Indies to Suriname where it spread to the tropics of Central America. The Malay name for the fruit is used in Spanish and it is widely cultivated in Honduras and in Malaysia. 
 
-![]( rambutan.PNG "from the william farquhar collection" ) 
+![]( rambutan.jpg "from the william farquhar collection" ) 
 
 **Bilimbi** 
 
@@ -44,3 +42,4 @@ Some colonial officers have even described the scent and flavor of durians as �
 Pisang raja and plantains (yellow, yellow, tasty fellow)
 “Indigenous to Southeast Asia” but often associated with cuisines of Central America, the Caribbean, and West Africa. 
 
+![]( drops.gif ) 

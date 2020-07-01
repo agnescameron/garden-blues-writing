@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "victorian discoverers"
+title:  "the golden chersonese and the way thither"
 date:   2020-06-24 11:24:44 -0400
 categories: jekyll update
 status
@@ -21,3 +21,5 @@ An amateur botanist and archaeologist, Dorothy eventually died from eating an un
 The history of this fruit is entangled with the colonial quest for crops to feed enslaved people on British plantations in the Caribbean. For instance, the Ackee fruit had been shipped from Westafrica to Jamaica as part of the British slave trade. 
 
 William Blighs search for breadfruit trees in Tahiti famously ended with a mutiny in 1789. His ship, the Bounty, never reached the Caribbean and Bligh took shelter in Timor in the Dutch East Indies, a sojourn that opened up the Indo-Malay’s flora to the British. 
+
+![]( drops.gif ) 
