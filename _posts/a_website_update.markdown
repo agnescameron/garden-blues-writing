@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "a website update july 7, 2020"
+title:  "a website update july 7 2020"
 date:   2020-07-7 11:24:44 -0400
 categories: jekyll update
 status: published
