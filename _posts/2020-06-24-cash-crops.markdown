@@ -41,5 +41,3 @@ Some colonial officers have even described the scent and flavor of durians as �
 
 Pisang raja and plantains (yellow, yellow, tasty fellow)
 “Indigenous to Southeast Asia” but often associated with cuisines of Central America, the Caribbean, and West Africa. 
-
-![]( drops.gif ) 
