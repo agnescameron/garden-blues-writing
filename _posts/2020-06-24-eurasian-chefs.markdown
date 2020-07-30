@@ -9,4 +9,6 @@ Semine realized a curious echo of her own biography in researching early records
 
 Beb Vuyk’s recipes are in the process of being translated. You can follow the project on [pisang.susu](https://pisangsusu.com "pisangsusu") 
 
-![]( IMG_7440.JPG "cyanotype of pandan thai basil lime leaf and curry leaf" )
+<span class="marginnote">
+	<img src="{{ 'IMG_7440.JPG' | prepend: site.baseurl }}" alt="full width image" />cyanotype of pandan thai basil lime leaf and curry leaf 
+</span>!

@@ -31,13 +31,9 @@ The ciku fruit is native to Central America (el zapote in Spanish; sapodilla in 
 
 Native to Central America, this cactus plant was cultivated in the gardens of British trade posts in Southeast Asia. It makes an appearance in William Farquhar’s collection of watercolors of Malayan flora and fauna from the early nineteenth century.
 
-**A Note on Names: Dutch Bananas and Custard Apples**
+<span class="marginnote">
+   **A Note on Names - Dutch Bananas and Custard Apples**: The soursop-like “custard apple” is native to the New World but common in the Malay world. In Malaysia, figs are called pisang belanda (Dutch banana). Some colonial officers have even described the scent and flavor of durians as “very ripe strawberries.” Pisang raja and plantains (yellow, yellow, tasty fellow)
+“Indigenous to Southeast Asia” but often associated with cuisines of Central America, the Caribbean, and West Africa.
+</span>
 
-The soursop-like “custard apple” is native to the New World but common in the Malay world. 
 
-In Malaysia, figs are called pisang belanda (Dutch banana). 
-
-Some colonial officers have even described the scent and flavor of durians as “very ripe strawberries.”
-
-Pisang raja and plantains (yellow, yellow, tasty fellow)
-“Indigenous to Southeast Asia” but often associated with cuisines of Central America, the Caribbean, and West Africa. 
